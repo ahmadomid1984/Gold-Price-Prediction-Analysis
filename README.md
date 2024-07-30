@@ -144,7 +144,6 @@ LightningChart Python allows for the creation of highly interactive and customiz
 ![Chart](./images/4.png)
 ![Chart](./images/5.png)
 ![Chart](./images/6.png)
-![Chart](./images/7.png)
 ![Chart](./images/8.png)
 ![Chart](./images/9.png)
 ![Chart](./images/10.png)
